@@ -6,7 +6,8 @@ require (
 	github.com/cosmos/cosmos-sdk v0.46.7
 	github.com/dgraph-io/ristretto v0.1.1
 	github.com/ingenuity-build/quicksilver v1.0.0
-	github.com/labstack/echo/v4 v4.10.0
+	github.com/labstack/echo-contrib v0.13.0
+	github.com/labstack/echo/v4 v4.10.2
 	github.com/labstack/gommon v0.4.0
 	github.com/tendermint/tendermint v0.34.24
 	gopkg.in/yaml.v2 v2.4.0
@@ -66,12 +67,11 @@ require (
 	github.com/iqlusioninc/liquidity-staking-module v1.0.0 // indirect
 	github.com/jmhodges/levigo v1.0.0 // indirect
 	github.com/klauspost/compress v1.15.11 // indirect
-	github.com/labstack/echo-contrib v0.13.0 // indirect
 	github.com/libp2p/go-buffer-pool v0.1.0 // indirect
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
-	github.com/mattn/go-isatty v0.0.16 // indirect
+	github.com/mattn/go-isatty v0.0.17 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
 	github.com/mimoo/StrobeGo v0.0.0-20210601165009-122bf33a46e0 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
@@ -107,13 +107,13 @@ require (
 	github.com/zondax/ledger-go v0.14.0 // indirect
 	go.etcd.io/bbolt v1.3.6 // indirect
 	go.opencensus.io v0.23.0 // indirect
-	golang.org/x/crypto v0.2.0 // indirect
+	golang.org/x/crypto v0.6.0 // indirect
 	golang.org/x/exp v0.0.0-20220914170420-dc92f8653013 // indirect
-	golang.org/x/net v0.4.0 // indirect
-	golang.org/x/sys v0.3.0 // indirect
-	golang.org/x/term v0.3.0 // indirect
-	golang.org/x/text v0.5.0 // indirect
-	golang.org/x/time v0.2.0 // indirect
+	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/term v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/time v0.3.0 // indirect
 	google.golang.org/genproto v0.0.0-20221118155620-16455021b5e6 // indirect
 	google.golang.org/grpc v1.50.1 // indirect
 	google.golang.org/protobuf v1.28.2-0.20220831092852-f930b1dc76e8 // indirect
